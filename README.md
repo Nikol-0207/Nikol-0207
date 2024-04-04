@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hola soy Nicol...! 
+# Hola ...!
+Me presento,soy  Wendy Nicol.
+Cuento con experiencia en proyectos de desarrollo y  conocimientos en Java script, CSS. Con competencias de trabajo en equipo, capacidad de dadaptacion y aprendizaje continuo.
 
 
 ## 🌐 Socials:

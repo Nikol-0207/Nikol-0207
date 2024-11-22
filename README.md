@@ -1,5 +1,5 @@
 # Hola ...!
-Me presento,soy  Wendy Nicol.
+Me presento,soy  Wendy Nicol, desarrolladora web.
 Cuento con experiencia en proyectos de desarrollo y  conocimientos en Java script, CSS. Con competencias de trabajo en equipo, capacidad de adaptacion y aprendizaje continuo.
 
 Mi incursión en el ámbito tecnológico ha avivado una creciente pasión por el aprendizaje y la innovación en este sector. A pesar de los desafíos inherentes, abordo cada proyecto con entusiasmo y dedicación, celebrando los resultados alcanzados. Esta motivación es el impulso que me permite convertir en realidad las ideas y diseños concebidos para el desarrollo de aplicaciones y páginas web.
